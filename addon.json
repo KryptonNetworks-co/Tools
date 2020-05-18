@@ -1,0 +1,13 @@
+{
+	"title": "KryptonNetworks Tool Pack",
+	"type": "tool",
+	"tags": [
+		"fun",
+		"roleplay"
+	],
+	"ignore": [
+		".git/*",
+		"LICENSE.md",
+		"README.md"
+	]
+}
