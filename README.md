@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Krypton Networks Dark Banner](https://raw.githubusercontent.com/KryptonNetworks-co/Branding/master/Graphics/Banner/Banner-Dark.png)](https://kryptonnetworks.co/)
+
 # Krypton Networks Tool Pack
 
 </div>
